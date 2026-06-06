@@ -1,4 +1,4 @@
-const workout = require("../models/workoutmodel");
+const workout = require("../models/workoutModel");
 // importing the workoutModel to interact with the workouts collection in the database
 
 const mongoose = require('mongoose')
